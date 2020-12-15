@@ -1,0 +1,42 @@
+body
+{
+    padding-top: 100px;
+}
+
+.page-heading
+{
+    text-decoration: underline;
+}
+
+.card
+{
+    margin-bottom: 10px;
+}
+
+.career-section
+{
+  padding-top: 70px;
+  margin-top: -70px;
+}
+
+.book-thumb
+{
+    float: left;
+    margin-right: 10px;
+}
+
+.book-review
+{
+    margin-bottom: 10px;
+}
+
+#profile-picture
+{
+    margin: auto;
+}
+
+#career-menu
+{
+    position: fixed;
+    padding-top: 55px;
+}
