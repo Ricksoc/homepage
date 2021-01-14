@@ -28,6 +28,10 @@ p {
   max-width: 1200px;
 }
 
+.btn {
+  margin: 10px auto;
+}
+
 /* Sections */
 .top-section {
   padding-top: 70px;
