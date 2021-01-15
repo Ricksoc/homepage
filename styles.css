@@ -61,7 +61,7 @@ p {
 
 .top-section-para {
   margin: auto;
-  width: 60%;
+  width: 70%;
 }
 
 .title-para {
@@ -83,7 +83,7 @@ p {
 /* Navigation */
 .navbar-custom {
   background-color: #364f6b;
-  padding: 0.5% 10%;
+  padding: 1% 10%;
 }
 
 .nav-item {
@@ -115,8 +115,8 @@ p {
 }
 
 .career-nav-point {
-  padding-top: 70px;
-  margin-top: -70px;
+  padding-top: 90px;
+  margin-top: -90px;
 }
 
 .employer {
@@ -171,6 +171,12 @@ p {
   height: 200px;
   width: 180px;
   margin: 0 20px 20px 0;
+}
+
+@media (max-width: 992px) {
+  iframe {
+    display: none;
+  }
 }
 
 /* Footer */
